@@ -59,7 +59,7 @@ The future development of Suiswap will focus on expanding the platform's offerin
 
 3. **Enhanced user experience**: Continuously refining the platform's interface and functionality will ensure that users have a seamless and efficient trading experience.
 
-4. **Community governance**: Implementing a community governance model will enable SUI token holders to have a say in the future development and direction of the platform, promoting a more decentralized and community-driven ecosystem.
+4. **Community governance**: Implementing a community governance model will enable Suiswap governance token holders to have a say in the future development and direction of the platform, promoting a more decentralized and community-driven ecosystem.
 
 5. **Partnerships and integrations**: Collaborating with other projects and platforms within the SUI ecosystem will strengthen the overall network and increase the utility of the Suiswap platform.
 
