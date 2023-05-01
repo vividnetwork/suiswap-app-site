@@ -1,6 +1,6 @@
 ## A Comprehensive Overview
 
-![suiswap-cover {100%x300px}](/doc/images/introduction-to-suiswap-title.png)
+![suiswap-cover {width:100%} {height:300px}](/doc/images/introduction-to-suiswap-title.png)
 
 Suiswap is a decentralized token trading platform and exchange built on the SUI blockchain by Vivid Network. It aims to provide a secure, fast, and agile trading environment for the SUI ecosystem. In this article, we will provide an in-depth look at Suiswap, its key components, and the overall vision of the platform.
 
