@@ -17,8 +17,8 @@ export const docLayout: DocLayout = [
                         "nameShow": "💡· Introduction To Suiswap",
                         "description": "Suiswap is a decentralized token trading platform and exchange built on the SUI blockchain by Vivid Network. It aims to provide a secure, fast, and agile trading environment for the SUI ecosystem.",
                         "markdownPath": "/doc/articles/introduction-to-suiswap.md",
-                        "cover": "/doc/cover/suiswap-doc-image.jpeg",
-                        "thumbnailImage": "/doc/cover/suiswap-doc-image.jpeg"
+                        "cover": "/doc/cover/suiswap-doc-image-cover.jpg",
+                        "thumbnailImage": "/doc/cover/suiswap-doc-image-cover.jpg"
                     },
                     {
                         "time": "2023-05-08",

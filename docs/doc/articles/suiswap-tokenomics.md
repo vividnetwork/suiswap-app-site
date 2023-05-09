@@ -1,3 +1,5 @@
+> Whitepaper PDF: [Suiswap Tokenomics.pdf](/doc/misc/suiswap-tokenomics.pdf)
+
 The SSWP token symbolizes the Suiswap protocol token, a native token within the SUI blockchain ecosystem. 
 The purpose of the SSWP token is to strengthen the Suiswap protocol, platform, and governance mechanisms. 
 Suiswap aspires to establish itself as the premier trading platform for the entire SUI network, offering liquidity for various swaps and transactions. 
