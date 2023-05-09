@@ -28,6 +28,15 @@ export const docLayout: DocLayout = [
                         "markdownPath": "/doc/articles/suiswap-tokenomics.md",
                         "cover": "/doc/cover/suiswap-tokenomics-cover.jpg",
                         "thumbnailImage": "/doc/cover/suiswap-tokenomics-cover.jpg"
+                    },
+                    {
+                        "time": "2023-05-10",
+                        "name": "suiswap-token-staking",
+                        "nameShow": "✨· Suiswap Token Staking",
+                        "description": "Boost your earnings with Suiswap Token (SSWP) staking and yield farming, leveraging platform dividends and additional SSWP rewards for higher returns.",
+                        "markdownPath": "/doc/articles/suiswap-token-staking.md",
+                        "cover": "/doc/cover/suiswap-token-staking-cover.jpg",
+                        "thumbnailImage": "/doc/cover/suiswap-token-staking-cover.jpg"
                     }
                 ]
             }
