@@ -37,6 +37,24 @@ export const docLayout: DocLayout = [
                         "markdownPath": "/doc/articles/suiswap-token-staking.md",
                         "cover": "/doc/cover/suiswap-token-staking-cover.jpg",
                         "thumbnailImage": "/doc/cover/suiswap-token-staking-cover.jpg"
+                    },
+                    {
+                        "time": "2023-05-11",
+                        "name": "suiswap-initial-liquidity-reward",
+                        "nameShow": "🎉· Suiswap Initial Liquidity Reward",
+                        "description": "A 2-month event aims to incentivize users to provide liquidity to the pools on Suiswap's for a lock-up duration of over three months. By participating in this event, users can earn a share of the 400 million SSWP tokens that will be distributed as rewards.",
+                        "markdownPath": "/doc/articles/initial-liquidity-reward-event.md",
+                        "cover": "/doc/cover/suiswap-initial-liquidity-reward-cover.jpg",
+                        "thumbnailImage": "/doc/cover/suiswap-initial-liquidity-reward-cover.jpg"
+                    },
+                    {
+                        "time": "2023-05-11",
+                        "name": "suiswap-mainnet-launch",
+                        "nameShow": "🌌· Suiswap Mainnet Launch",
+                        "description": "We are thrilled to announce the launch of the Suiswap Mainnet, a major milestone in our journey towards a more efficient and equitable decentralized finance (DeFi) ecosystem. Our vision is to provide a platform that leverages the power of SUI to give everyone, everywhere, equal access to financial services and empower the entire SUI ecosystems.",
+                        "markdownPath": "/doc/articles/suiswap-mainnet-launch.md",
+                        "cover": "/doc/cover/suiswap-mainnet-launch-cover.jpg",
+                        "thumbnailImage": "/doc/cover/suiswap-mainnet-launch-cover.jpg"
                     }
                 ]
             }
