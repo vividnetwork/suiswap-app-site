@@ -11,14 +11,25 @@ You can participate in both activities to maximize your SSWP earnings.
 
 --------------------------
 
-## 1. Initial SSWP Token Liquidity Pool
+## 1. Beacon SSWP Token Liquidity Pool
 
-Upon the launch of the Suiswap Mainnet, we will establish an initial liquidity pool for Suiswap's native token SSWP, namely `SSWP/SUI`, to facilitate a small portion of SSWP token circulation initially. This liquidity will comprise about 1% of the total circulating tokens and will be sold at an initial price of 0.015 SUI per SSWP.
+Upon the launch of the Suiswap Mainnet, we will establish an initial liquidity pool for Suiswap's native token SSWP, namely `SSWP/SUI`, to facilitate a small portion of SSWP token circulation initially. 
+This liquidity will comprise about 1% of the total circulating tokens and will be sold at an initial price of 0.015 SUI per SSWP.
 
-- This pool will first serve as a beacon for determining the price of our IDO public sale. In subsequent IDO events, our selling price will be determined by the price of the `SSWP/SUI` pool.
+- **This pool will first serve as a beacon for determining the price of our IDO public sale**. In subsequent IDO events, our selling price will be determined by the price of the `SSWP/SUI` pool.
 - At the same time, this portion of SSWP can enable users to experience all SSWP-based features, such as obtaining 60% of the platform dividend by staking SSWP tokens, and earning extra SSWP benefits by locking SSWP. As demonstrated in our test network, any user who purchases SSWP tokens via `SSWP/SUI` and completes the staking after the mainnet launch can receive 60% of the platform income dividend on the 14th day after the mainnet launch.
 
-The `SSWP/SUI` liquidity pool adopts an automatic destruction mechanism. One-sixth of the transaction fee will be used to automatically purchase `SSWP` tokens and destroy them. This will help reduce the token circulation in the long term and stabilize the price of the SSWP token.
+The `SSWP/SUI` liquidity pool adopts an automatic destruction mechanism. During the beacon stage, all of the transaction fee will be used to automatically purchase `SSWP` tokens and destroy them. 
+This will help reduce the token circulation in the long term and stabilize the price of the SSWP token.
+
+> ##### Why Can't I Add Liquidity to the SSWP/SUI pool ?
+>
+> During the beacon phase (before IDO launch), the `SSWP/SUI` liquidity pool mainly serves as an initial platform for users to purchase SSWP (or sell SSWP when appropriate), while also providing a market-determined reference price for the IDO.
+>
+> In this beacon phase (before the IDO launch), 1% of the liquidity is provided by the Suiswap Team. All transaction fees during this phase are used to buy SSWP from the `SSWP/SUI` pool and are permanently destroyed. As liquidity providers cannot earn transaction fees during this phase, we temporarily suspend user liquidity provision to the `SSWP/SUI` pool before the IDO launch. Of course, this does not affect your ability to trade through the `SSWP/SUI` pool.
+>
+> After the IDO, we will readjust the transaction fees for liquidity providers and reopen the liquidity of the SSWP/SUI pool.
+
 
 
 ## 2. Initial Liquidity Reward Event
