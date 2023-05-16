@@ -1,5 +1,3 @@
-<!-- ![suiswap-cover {100%x300px}](/doc/images/link-your-wallet-title.png) -->
-
 >  Don't miss out on this unique opportunity to join the Suiswap community and take part in our upcoming testnet and mainnet airdrops. Connect your wallet today, and together, let's build the future of decentralized finance on the SUI platform.
 
 The **Suiswap** community is gearing up for an exciting period, and we want you to be a part of it! We will launch our first testnet airdrop test followed by the much-anticipated mainnet airdrop. 
