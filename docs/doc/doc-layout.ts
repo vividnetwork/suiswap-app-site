@@ -55,6 +55,15 @@ export const docLayout: DocLayout = [
                         "markdownPath": "/doc/articles/suiswap-mainnet-launch.md",
                         "cover": "/doc/cover/suiswap-mainnet-launch-cover.jpg",
                         "thumbnailImage": "/doc/cover/suiswap-mainnet-launch-cover.jpg"
+                    },
+                    {
+                        "time": "2023-05-21",
+                        "name": "suiswap-ido",
+                        "nameShow": "⚫️· About Suiswap IDO",
+                        "description": "Join us on 06/03 for the highly anticipated Suiswap IDO. Be part of the next big thing in Suiswap !",
+                        "markdownPath": "/doc/articles/suiswap-ido.md",
+                        "cover": "/doc/cover/suiswap-ido-cover.jpg",
+                        "thumbnailImage": "/doc/cover/suiswap-ido-cover.jpg"
                     }
                 ]
             }
