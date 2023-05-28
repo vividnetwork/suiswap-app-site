@@ -1,4 +1,4 @@
-Any user who chooses to provide liquidity for over three months in the **SUI/USDC, SUI/USDT, and USDC/USDT** pools can **share 400,000,000 SSWP tokens**.
+Any user who chooses to provide liquidity for over three months in the **SUI/USDC, SUI/USDT, or USDC/USDT** pools can **share 400,000,000 SSWP tokens**.
 
 **This event will last for two months**, during which we will track all user transactions within this period and select those who provide liquidity with a lock-up duration of over three months as our reward recipients.
 

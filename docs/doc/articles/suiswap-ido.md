@@ -1,6 +1,6 @@
 ## IDO Overview
 
-- **IDO Price**: `[It will be filled when the beacon pool closes]`
+- **IDO Price**: `0.02175 SUI`
 - **IDO Start**: 6am UTC, 3rd June, 2023
 - **IDO End**: 6am UTC, 5th June, 2023
 - **Maximum Supply for IDO**: 500,000,000 SSWP (5%)
