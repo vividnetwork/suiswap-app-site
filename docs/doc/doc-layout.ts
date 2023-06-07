@@ -19,6 +19,15 @@ export const docLayout: DocLayout = [
                         "markdownPath": "/doc/articles/introduction-to-suiswap.md",
                         "cover": "/doc/cover/suiswap-doc-image.jpeg",
                         "thumbnailImage": "/doc/cover/suiswap-doc-image.jpeg"
+                    },
+                    {
+                        "time": "2023-05-08",
+                        "name": "suiswap-tokenomics",
+                        "nameShow": "🌟· Suiswap Tokenomics",
+                        "description": "The SSWP token symbolizes the Suiswap protocol token, a native token within the SUI blockchain ecosystem. The purpose of the SSWP token is to strengthen the Suiswap protocol, platform, and governance mechanisms.",
+                        "markdownPath": "/doc/articles/suiswap-tokenomics.md",
+                        "cover": "/doc/cover/suiswap-tokenomics-cover.jpg",
+                        "thumbnailImage": "/doc/cover/suiswap-tokenomics-cover.jpg"
                     }
                 ]
             }
