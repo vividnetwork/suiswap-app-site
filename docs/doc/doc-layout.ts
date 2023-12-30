@@ -64,6 +64,15 @@ export const docLayout: DocLayout = [
                         "markdownPath": "/doc/articles/suiswap-ido.md",
                         "cover": "/doc/cover/suiswap-ido-cover.jpg",
                         "thumbnailImage": "/doc/cover/suiswap-ido-cover.jpg"
+                    },
+                    {
+                        "time": "2023-12-29",
+                        "name": "suiswap-cross-chain-dex",
+                        "nameShow": "Suiswap: Our Journey to Becoming the Leading Cross-Chain DEX",
+                        "description": "Since originating as the top DEX on Sui, Suiswap has built a community of over 328,000 Discord members and 358,000 Twitter followers",
+                        "markdownPath": "/doc/articles/suiswap-dex.md",
+                        "cover": "/doc/cover/suiswap-cross-chain-dex.jpg",
+                        "thumbnailImage": "/doc/cover/suiswap-cross-chain-dex.jpg"
                     }
                 ]
             }
